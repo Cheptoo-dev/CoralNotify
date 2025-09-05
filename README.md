@@ -68,6 +68,8 @@ pip install -r requirements.txt   # if backend in Python
 npm run dev
 # CoralNotify
 
+---
+
 🔮 Future Roadmap
 
 Add WhatsApp & Email channels
