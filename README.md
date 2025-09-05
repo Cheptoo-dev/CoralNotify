@@ -66,6 +66,9 @@ pip install -r requirements.txt   # if backend in Python
 
 # Run locally
 npm run dev
+
+---
+
 🔮 Future Roadmap
 Add WhatsApp & Email channels
 
