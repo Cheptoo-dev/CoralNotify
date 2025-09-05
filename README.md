@@ -67,3 +67,37 @@ pip install -r requirements.txt   # if backend in Python
 # Run locally
 npm run dev
 # CoralNotify
+
+🔮 Future Roadmap
+
+Add WhatsApp & Email channels
+
+Bulk messaging (CSV upload)
+
+Analytics dashboard (success/failure rates)
+
+AI-powered voice conversations (interactive agents)
+
+🏆 Hackathon Highlights
+
+Best Use of Coral → Reusable agent in Coral Registry
+
+Best Use of ElevenLabs → Multilingual, lifelike voice notifications
+
+Best Use of Mistral → Translation & rewriting across languages
+
+Best Use of Crossmint → Blockchain-based proof of notifications
+
+💡 Example Use Cases
+
+🏦 Fintech: Loan repayment reminders
+
+🏥 Healthcare: Appointment confirmations
+
+🎓 EdTech: Class schedule updates in local languages
+
+🚚 Logistics: Delivery notifications with verifiable proof
+
+👩‍💻 Authors
+
+Built with ❤️ by Cheptoo Faith (Techmuse) for the Build Agentic Software with Coral Hackathon.
