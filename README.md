@@ -1,3 +1,4 @@
+
 # 🌊 CoralNotify – The Multilingual AI Notification Agent  
 
 > Deliver smart, multilingual, and verifiable notifications via **SMS & Voice** using **Coral Protocol** and partner technologies.  
@@ -53,7 +54,7 @@ This project integrates the required hackathon technologies:
 
 ---
 
-## 🚀 Installation & Setup
+## 📦 Installation  
 
 ```bash
 # Clone repo
@@ -66,33 +67,42 @@ pip install -r requirements.txt   # if backend in Python
 
 # Run locally
 npm run dev
+````
 
 ---
 
-🔮 Future Roadmap
-Add WhatsApp & Email channels
+## 🔮 Future Roadmap
 
-Bulk messaging (CSV upload)
+* Add WhatsApp & Email channels
+* Bulk messaging (CSV upload)
+* Analytics dashboard (success/failure rates)
+* AI-powered voice conversations (interactive agents)
 
-Analytics dashboard (success/failure rates)
+---
 
-AI-powered voice conversations (interactive agents)
+## 🏆 Hackathon Highlights
 
-🏆 Hackathon Highlights
-Best Use of Coral → Reusable agent in Coral Registry
+* **Best Use of Coral** → Reusable agent in Coral Registry
+* **Best Use of ElevenLabs** → Multilingual, lifelike voice notifications
+* **Best Use of Mistral** → Translation & rewriting across languages
+* **Best Use of Crossmint** → Blockchain-based proof of notifications
 
-Best Use of ElevenLabs → Multilingual, lifelike voice notifications
+---
 
-Best Use of Mistral → Translation & rewriting across languages
+## 💡 Example Use Cases
 
-Best Use of Crossmint → Blockchain-based proof of notifications
+* 🏦 **Fintech**: Loan repayment reminders
+* 🏥 **Healthcare**: Appointment confirmations
+* 🎓 **EdTech**: Class schedule updates in local languages
+* 🚚 **Logistics**: Delivery notifications with verifiable proof
 
-💡 Example Use Cases
-🏦 Fintech → Loan repayment reminders
-🏥 Healthcare → Appointment confirmations
-🎓 EdTech → Class schedule updates in local languages
-🚚 Logistics → Delivery notifications with verifiable proof
+---
 
-👩‍💻 Authors
-Built with ❤️ by Cheptoo Faith (Techmuse)
-for the Build Agentic Software with Coral Hackathon.
+## 👩‍💻 Authors
+
+Built with ❤️ by Cheptoo Faith (Techmuse) for the *Build Agentic Software with Coral* Hackathon.
+
+```
+
+
+
